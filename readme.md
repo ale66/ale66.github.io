@@ -1,4 +1,4 @@
-### Welcome to my GitHub Page
+### ![](./imgs/ale-caricature2.jpg) Welcome to my GitHub Page
 
 Please see my [institutional web page](https://www.bbk.ac.uk/our-staff/profile/8920719/alessandro-provetti) at [Birkbeck, University of London](https://www.bbk.ac.uk/). 
 
