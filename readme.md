@@ -1,8 +1,8 @@
 ### Welcome to my GitHub Page
 
-<img src="./imgs/ale-caricature2.jpg" width="20%">
-
-![](./imgs/ale-caricature2.jpg)
+<div align="center">
+  <img src="./imgs/ale-caricature2.jpg" width="10%">
+</div>
 
 Please see my [institutional web page](https://www.bbk.ac.uk/our-staff/profile/8920719/alessandro-provetti) at [Birkbeck, University of London](https://www.bbk.ac.uk/). 
 
