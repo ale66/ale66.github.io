@@ -8,7 +8,7 @@ I started the [Birkbeck Institute for Data Analytics](https://www.bbk.ac.uk/rese
 
 Please see my [institutional web page](https://www.bbk.ac.uk/our-staff/profile/8920719/alessandro-provetti) or [LinkedIn](https://www.linkedin.com/in/alessandro-provetti/) or even [Facebook](https://www.facebook.com/alessandro.provetti/).
 
-I create and maintain teaching materials for those willing to learn, e.g., [learn-web](https://ale66.github.io/learn-web) and [learn-genai](https://ale66.github.io/learn-genai). 
+I create and maintain teaching materials for those willing to learn, e.g., [learn-web](https://ale66.github.io/learn-web/) and [learn-genai](https://ale66.github.io/learn-genai/). 
 
 My research output consists mostly of scientific papers that are indexed on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603433202) or [Google Scholar](https://scholar.google.it/citations?user=pwOBPBQAAAAJ).
 
