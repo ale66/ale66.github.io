@@ -3,7 +3,7 @@ title: "Research Interests"
 author: "a.provetti@bbk.ac.uk"
 format:
   revealjs:
-    footer: "[ale66.github.io/research/](ale66.github.io/research/)&nbsp;&nbsp;&nbsp;"
+    footer: "[ale66.github.io/research/](https://ale66.github.io/research/)&nbsp;&nbsp;&nbsp;"
     theme: [beige]
     preview-links: auto
     chalkboard:
@@ -53,12 +53,12 @@ execute:
 
 ## PhDs
 
-- [Massimo Marchi](https://www.unimi.it/en/ugov/person/massimo-marchi){target="_blank" preview-link="true"} (U. of Milan, IT)
-- [Alessandra Mileo](https://www.dcu.ie/computing/people/alessandra-mileo){target="_blank" preview-link="true"} (U. College Dublin, IR)
-- [Emilio Ferrara](https://www.emilio.ferrara.name/){target="_blank" preview-link="true"} (U. of Southern California, US)
-- [Ylli Prifti](https://www.linkedin.com/in/ylliprifti/){target="_blank" preview-link="true"} (Mitratech Corp., US)
-- [Seongil Han](https://www.suwon.ac.kr/mainHp/prointro/detail.html?eno=1255128){target="_blank" preview-link="true"} (Suwon U., KR)
-- [Carlo Piccari](https://www.linkedin.com/in/carlopiccari/){target="_blank" preview-link="true"} (UBS Bank, PL)
+- [Massimo Marchi](https://www.unimi.it/en/ugov/person/massimo-marchi){target="_blank" preview-link="false"} (U. of Milan, IT)
+- [Alessandra Mileo](https://www.dcu.ie/computing/people/alessandra-mileo){target="_blank" preview-link="false"} (U. College Dublin, IR)
+- [Emilio Ferrara](https://www.emilio.ferrara.name/){target="_blank" preview-link="false"} (U. of Southern California, US)
+- [Ylli Prifti](https://www.linkedin.com/in/ylliprifti/){target="_blank" preview-link="false"} (Mitratech Corp., US)
+- [Seongil Han](https://www.suwon.ac.kr/mainHp/prointro/detail.html?eno=1255128){target="_blank" preview-link="false"} (Suwon U., KR)
+- [Carlo Piccari](https://www.linkedin.com/in/carlopiccari/){target="_blank" preview-link="false"} (UBS Bank, PL)
 
 
 
@@ -148,19 +148,19 @@ Can sentiment extracted from financial news predict markets?
 :::: {.columns}
 
 ::: {.column width="33%"}
-[Google Scholar](https://scholar.google.com/citations?user=pwOBPBQAAAAJ){target="_blank" preview-link="true"}
+[Google Scholar](https://scholar.google.com/citations?user=pwOBPBQAAAAJ){target="_blank" preview-link="false"}
 
 ![](./imgs/google-scholar.png){.mini}
 :::
 
 ::: {.column width="33%"}
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=XXXXXXXXXXX){target="_blank" preview-link="true"}
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=XXXXXXXXXXX){target="_blank" preview-link="false"}
 
 ![](./imgs/scopus.png){.mini}
 :::
 
 ::: {.column width="33%"}
-[GitHub](https://github.com/ale66){target="_blank" preview-link="true"}
+[GitHub](https://github.com/ale66){target="_blank" preview-link="false"}
 
 ![](./imgs/github-personal-page.png){.mini}
 :::
