@@ -15,3 +15,5 @@ My research output consists mostly of scientific papers that are indexed on [Sco
 Currently I am working on [image generation from collections](https://ale66.github.io/VA-design-generator/) and on [Network Centrality](https://github.com/ale66/Montecarlo-Potential-Gain). 
 
 After all these years... I still love simple, easy-to-scrape Web pages.
+
+I am following several bands, but none like [Calibro 35](https://www.calibro35.com/). 
