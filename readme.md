@@ -16,4 +16,4 @@ Currently I am working on [image generation from collections](https://ale66.gith
 
 After all these years... I still love simple, easy-to-scrape Web pages.
 
-I am following several bands, but none like [Calibro 35](https://www.calibro35.com/). 
+I am following several bands, but none like [Calibro 35](https://www.calibro35.com/) and CSI.
