@@ -4,8 +4,6 @@
   <img src="./imgs/ale-caricature2.jpg" width="19%">
 </div>
 
-![](imgs/ale-figliol-prodigo-20191124.jpg){: style="width: 20%;"} ![](imgs/ale-caricature2.jpg){: style="width: 18%;"}
-
 I started the [Birkbeck Institute for Data Analytics](https://www.bbk.ac.uk/research/centres/birkbeck-institute-for-data-analytics/).
 
 Please see my [institutional web page](https://www.bbk.ac.uk/our-staff/profile/8920719/alessandro-provetti) or [LinkedIn](https://www.linkedin.com/in/alessandro-provetti/) or even [Facebook](https://www.facebook.com/alessandro.provetti/).
