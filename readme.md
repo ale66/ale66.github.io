@@ -1,12 +1,6 @@
 ### Welcome to my GitHub Page
 
-<div align="left">
-  <img src="./imgs/ale-figliol-prodigo-20191124.jpg" width="10%">
-</div>
-
-<div align="right">
-  <img src="./imgs/ale-caricature2.jpg" width="10%">
-</div>
+![](imgs/ale-figliol-prodigo-20191124.jpg){: style="width: 48%;"} ![](imgs/ale-caricature2.jpg){: style="width: 48%;"}
 
 I started the [Birkbeck Institute for Data Analytics](https://www.bbk.ac.uk/research/centres/birkbeck-institute-for-data-analytics/).
 
