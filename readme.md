@@ -1,5 +1,9 @@
 ### Welcome to my GitHub Page
 
+<div align="right">
+  <img src="./imgs/ale-caricature2.jpg" width="19%">
+</div>
+
 ![](imgs/ale-figliol-prodigo-20191124.jpg){: style="width: 20%;"} ![](imgs/ale-caricature2.jpg){: style="width: 18%;"}
 
 I started the [Birkbeck Institute for Data Analytics](https://www.bbk.ac.uk/research/centres/birkbeck-institute-for-data-analytics/).
@@ -15,3 +19,7 @@ Currently I am working on [image generation from collections](https://ale66.gith
 After all these years... I still love simple, easy-to-scrape Web pages.
 
 I follow several bands, but none like [Calibro 35](https://www.calibro35.com/) and [CSI](https://www.rockol.it/news-756658/csi-reunion-primo-posto-classicica-tabula-rasa-elettrificata-storia).
+
+<div align="right">
+  <img src="./imgs/ale-figliol-prodigo-20191124.jpg" width="20%">
+</div>
